@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+utils/__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor / tooling
+.vscode/
+.idea/
+.claude/settings.local.json
+
+# Generated outputs
+figures/legacy/
+# videos/
+npz/legacy/
+
+# Excluded assets / writeups
+meshes/
+latex/
+legacy/
+
+InspectionFFSM.code-workspace

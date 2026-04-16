@@ -1,0 +1,10 @@
+# Install pinocchio via conda: `conda install -c conda-forge pinocchio`
+# (pip `pin` package exists but conda is the supported path)
+numpy
+scipy
+matplotlib
+tqdm
+Pillow
+open3d
+mujoco
+mediapy
